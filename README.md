@@ -1,5 +1,4 @@
 GLOBAL NODEs
-
 1,045 Nodes
 GLOBAL WORKER
 2,623 Workers
