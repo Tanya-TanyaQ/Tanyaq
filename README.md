@@ -12,4 +12,4 @@ GLOBAL RAM
 9.33 Tb
 01 juli
 01 juli
-02
+02 
