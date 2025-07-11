@@ -10,6 +10,7 @@ PAYOUT
 41.3 M $NOM
 GLOBAL RAM
 9.33 Tb
+
 01 juli
 01 juli
 
