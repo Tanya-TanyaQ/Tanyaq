@@ -13,4 +13,3 @@ GLOBAL RAM
 01 juli
 01 juli
 
-
